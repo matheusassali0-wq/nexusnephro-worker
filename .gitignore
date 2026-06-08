@@ -1,2 +1,11 @@
 node_modules/
 .wrangler/
+.codex/
+
+# Generated agent/runtime artifacts
+.claude-flow/
+.swarm/
+ruvector.db
+memory.db
+*.db-shm
+*.db-wal
